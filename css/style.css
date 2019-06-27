@@ -1,0 +1,40 @@
+
+#navbar ul { 
+margin: 0; 
+padding: 5px; 
+list-style-type: none; 
+text-align: center; 
+background-color: #a2e8c8; 
+} 
+
+#navbar ul li { 
+display: inline; 
+} 
+
+#navbar ul li a { 
+text-decoration: none; 
+padding: .2em 1em; 
+color: #000000; 
+background-color: #a2e8c8; 
+} 
+
+#navbar ul li a:hover { 
+color: #000000; 
+background-color: #a2e8c8; 
+}
+
+body {
+  background-color:#a2e8c8;
+}
+h1 {
+  font-size:75px;  
+  }
+ h3 {
+ text-align:center;
+ }
+.header {
+   text-align:center;
+}
+.footer {
+font-size:25px
+}
